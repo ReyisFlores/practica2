@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(250, 197, 154);
+}
+
+h1{
+    color: rgb(243, 145, 235);
+    text-align: center;
+}
+
+h2{
+    color: rgb(245, 196, 219);
+    background-color: rgb(153, 110, 75);
+}
+
+strong{
+    color: rgb(231, 112, 122);
+}
+
+em{
+    color: rgb(207, 84, 181);
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 20px;
+}
+
+h1{
+    color: rgb(253, 125, 157);
+}
